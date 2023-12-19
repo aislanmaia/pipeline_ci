@@ -1,8 +1,8 @@
 {
   "skip_files": [
-    "lib/pipelie_ci/application.ex",
+    "lib/pipeline_ci/application.ex",
     "lib/pipeline_ci_web.ex",
-    "lib/pipelie_ci_web/telemetry.ex",
+    "lib/pipeline_ci_web/telemetry.ex",
     "lib/pipeline_ci_web/router.ex",
     "lib/pipeline_ci_web/views/error_helpers.ex",
     "test/support/data_case.ex"
